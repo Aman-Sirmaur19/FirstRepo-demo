@@ -1,4 +1,4 @@
 # FirstRepo-demo
 This is my first Git Repository.
 <br>
-Author - Aman Kumar
+Author - Aman Kumar, NIT Agartala
